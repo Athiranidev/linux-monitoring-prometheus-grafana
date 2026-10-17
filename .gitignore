@@ -1,0 +1,18 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Prometheus runtime data
+prometheus/data/
+
+# Grafana runtime data
+grafana/data/
+grafana.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
