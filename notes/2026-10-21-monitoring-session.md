@@ -1,10 +1,6 @@
 # Monitoring Lab 
-## 1. Project
 
 **Project:** Linux System Monitoring with Prometheus and Grafana
-
-**Repository:** `linux-monitoring-prometheus-grafana`
-
 **Working directory:** `~/DevOps/monitoring-lab`
 
 ### Tools
